@@ -3,7 +3,7 @@
 This is a arcade cabinet designed to be created on a CNC machine, ideally a Shop Bot.
 
 ### What does it look like?
-![assembled]("cabinet.jpg")
+![](https://github.com/phoenixperry/arcade_cabinet/blob/master/cabinet.jpg)
 
 ### Why make this?  
 
